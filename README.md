@@ -1,11 +1,12 @@
-### Olá, Eu sou Willem Allan 
+## Olá,
+### Eu sou Willem Allan 
 
 **Formado em Ciência da Computação e Jogos Digitais.**
 
-<i class="bi bi-youtube"></i> http://youtube.com/wiskton
-<i class="bi bi-instagram"></i> http://instagram.com/wiskton
-<i class="bi bi-twitter"></i> http://twitter.com/wiskton
-<i class="bi bi-linkedin"></i> https://www.linkedin.com/in/willemallan/
+- http://youtube.com/wiskton
+- http://instagram.com/wiskton
+- http://twitter.com/wiskton
+- https://www.linkedin.com/in/willemallan/
 
 <!--
 **wiskton/wiskton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
