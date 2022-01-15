@@ -1,6 +1,8 @@
 ## Olá, Eu sou Willem Allan 
 
 **Formado em Ciência da Computação e Jogos Digitais.**
+**Crio conteúdo de tecnologias e programação no Youtube.**
+**Mais de 10 anos de experiência da área de programação.**
 
 ## Links 
 
@@ -11,6 +13,15 @@
 - [Instagram](http://instagram.com/wiskton)
 - [Twitter](http://twitter.com/wiskton)
 - [LinkedIn](https://www.linkedin.com/in/willemallan/)
+
+## Linguagens 
+
+[![Python](https://bootstrap-slack.herokuapp.com/badge.svg)]
+[![Ruby](https://bootstrap-slack.herokuapp.com/badge.svg)]
+[![PHP](https://bootstrap-slack.herokuapp.com/badge.svg)]
+[![C#](https://bootstrap-slack.herokuapp.com/badge.svg)]
+[![JAVA](https://bootstrap-slack.herokuapp.com/badge.svg)]
+[![ASP](https://bootstrap-slack.herokuapp.com/badge.svg)]
 
 <!--
 **wiskton/wiskton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
