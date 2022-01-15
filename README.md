@@ -1,9 +1,8 @@
 ## Olá, Eu sou Willem Allan 
 
-<p>**Atuando desde 2007 na área de programação.**<BR>
-**Formado em Ciência da Computação e Jogos Digitais.**<BR>
-**Crio conteúdo de tecnologias e programação no Youtube.**<BR>
-**Mais de 10 anos de experiência da área de programação.**</p>
+<p>Formado em Ciência da Computação e Jogos Digitais.<BR>
+Crio conteúdo de tecnologias e programação no Youtube.<BR>
+Mais de 10 anos de experiência da área de programação.</p>
 
 ## Links 
 
