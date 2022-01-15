@@ -16,12 +16,48 @@
 
 ## Linguagens 
 
-![Python](https://bootstrap-slack.herokuapp.com/badge.svg)
-![Ruby](https://bootstrap-slack.herokuapp.com/badge.svg)
-![PHP](https://bootstrap-slack.herokuapp.com/badge.svg)
-![C#](https://bootstrap-slack.herokuapp.com/badge.svg)
-![JAVA](https://bootstrap-slack.herokuapp.com/badge.svg)
-![ASP](https://bootstrap-slack.herokuapp.com/badge.svg)
+- Python
+- Ruby
+- PHP
+- C#
+- JAVA
+- ASP
+- JavaScript 
+- C
+- C++
+- Shellscript
+
+## Sistema
+
+- Linux (Ubuntu, CentOS, Fedora, Manjaro, Debian)
+- Windows
+
+## Frameworks
+
+- Django
+- Ruby on Rails
+- CakePhp
+- Django REST framework
+- Flask
+
+## Banco de dados
+
+- MySQL
+- PostgreSQL
+- Oracle
+
+## Amazon AWS 
+
+- S3
+- EC2 
+- Route53
+- Lambda 
+- SQS
+- CloudWatch
+
+## Jogos
+
+- Unity 3d
 
 <!--
 **wiskton/wiskton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
