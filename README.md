@@ -2,10 +2,12 @@
 
 **Formado em Ciência da Computação e Jogos Digitais.**
 
-- http://youtube.com/wiskton
-- http://instagram.com/wiskton
-- http://twitter.com/wiskton
-- https://www.linkedin.com/in/willemallan/
+## Social 
+
+- [Youtube](http://youtube.com/wiskton)
+- [Instagram](http://instagram.com/wiskton)
+- [Twitter](http://twitter.com/wiskton)
+- [LinkedIn](https://www.linkedin.com/in/willemallan/)
 
 <!--
 **wiskton/wiskton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
