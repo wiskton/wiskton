@@ -2,7 +2,7 @@
 
 **Formado em Ciência da Computação e Jogos Digitais.**
 
-## Social 
+## Links 
 
 - [Site](https://willemallan.com.br/)
 - [Linktr](https://linktr.ee/wiskton)
