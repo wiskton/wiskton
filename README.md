@@ -16,12 +16,12 @@
 
 ## Linguagens 
 
-[![Python](https://bootstrap-slack.herokuapp.com/badge.svg)]
-[![Ruby](https://bootstrap-slack.herokuapp.com/badge.svg)]
-[![PHP](https://bootstrap-slack.herokuapp.com/badge.svg)]
-[![C#](https://bootstrap-slack.herokuapp.com/badge.svg)]
-[![JAVA](https://bootstrap-slack.herokuapp.com/badge.svg)]
-[![ASP](https://bootstrap-slack.herokuapp.com/badge.svg)]
+![Python](https://bootstrap-slack.herokuapp.com/badge.svg)
+![Ruby](https://bootstrap-slack.herokuapp.com/badge.svg)
+![PHP](https://bootstrap-slack.herokuapp.com/badge.svg)
+![C#](https://bootstrap-slack.herokuapp.com/badge.svg)
+![JAVA](https://bootstrap-slack.herokuapp.com/badge.svg)
+![ASP](https://bootstrap-slack.herokuapp.com/badge.svg)
 
 <!--
 **wiskton/wiskton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
