@@ -10,6 +10,7 @@ Mais de 10 anos de experiência da área de programação.</p>
 - [Linktr](https://linktr.ee/wiskton)
 - [Youtube Tech](http://youtube.com/wiskton)
 - [Youtube Dev](https://www.youtube.com/channel/UCsz1LhbGTSEdjt0fJTJSU_w)
+- [Twitch](https://www.twitch.com/wiskton)
 - [Instagram](http://instagram.com/wiskton)
 - [Twitter](http://twitter.com/wiskton)
 - [LinkedIn](https://www.linkedin.com/in/willemallan/)
