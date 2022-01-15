@@ -4,8 +4,10 @@
 
 ## Social 
 
+- [Site](https://willemallan.com.br/)
+- [Linktr](https://linktr.ee/wiskton)
 - [Youtube Tech](http://youtube.com/wiskton)
-- [Youtube Dev](http://youtube.com/wiskton)
+- [Youtube Dev](https://www.youtube.com/channel/UCsz1LhbGTSEdjt0fJTJSU_w)
 - [Instagram](http://instagram.com/wiskton)
 - [Twitter](http://twitter.com/wiskton)
 - [LinkedIn](https://www.linkedin.com/in/willemallan/)
