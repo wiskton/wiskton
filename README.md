@@ -5,6 +5,7 @@
 - http://youtube.com/wiskton
 - http://instagram.com/wiskton
 - http://twitter.com/wiskton
+- https://www.linkedin.com/in/willemallan/
 
 <!--
 **wiskton/wiskton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
