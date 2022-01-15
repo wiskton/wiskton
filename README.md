@@ -1,10 +1,10 @@
 ## Olá, Eu sou Willem Allan 
 
-<img src="https://avatars.githubusercontent.com/u/25565?v=4" width="150">
-<p>Formado em Ciência da Computação e Jogos Digitais.<BR>
+<div style="float:left; width: 220px; padding-left:10px; padding-right:10px;"><img src="https://avatars.githubusercontent.com/u/25565?v=4" width="200"></div>
+<div style="float:left;"><p>Formado em Ciência da Computação e Jogos Digitais.<BR>
 Crio conteúdo de tecnologias e programação no Youtube.<BR>
-Mais de 10 anos de experiência da área de programação.</p>
-
+Mais de 10 anos de experiência da área de programação.</p></div>
+  
 ## Links 
 
 - [Site](https://willemallan.com.br/)
