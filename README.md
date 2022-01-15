@@ -4,7 +4,8 @@
 
 ## Social 
 
-- [Youtube](http://youtube.com/wiskton)
+- [Youtube Tech](http://youtube.com/wiskton)
+- [Youtube Dev](http://youtube.com/wiskton)
 - [Instagram](http://instagram.com/wiskton)
 - [Twitter](http://twitter.com/wiskton)
 - [LinkedIn](https://www.linkedin.com/in/willemallan/)
