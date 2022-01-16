@@ -29,6 +29,19 @@ Mais de 10 anos de experiência da área de programação.</p>
   <img align="center" alt="Wiskton-django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
 </div>
   
+## Linguagens 
+
+- Python
+- Ruby
+- PHP
+- C#
+- JAVA
+- ASP
+- JavaScript 
+- C
+- C++
+- Shellscript
+  
 ## Links 
 
 <div> 
