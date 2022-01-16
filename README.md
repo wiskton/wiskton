@@ -16,7 +16,7 @@ Mais de 10 anos de experiência da área de programação.</p>
   <a href="https://willemallan.com.br" target="_blank"><img src="https://img.shields.io/badge/Site-orange?style=for-the-badge&logo=site&logoColor=white" target="_blank"></a> 
   <a href="https://linktr.ee/wiskton" target="_blank"><img src="https://img.shields.io/badge/Linktr-green?style=for-the-badge&logo=linktr&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UCsz1LhbGTSEdjt0fJTJSU_w" target="_blank"><img src="https://img.shields.io/badge/YouTubeDev-CD5C5C?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCsz1LhbGTSEdjt0fJTJSU_w" target="_blank"><img src="https://img.shields.io/badge/YouTubeDev-F76806?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="http://twitch.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  	<a href="http://twitter.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
