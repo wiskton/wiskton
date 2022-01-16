@@ -12,19 +12,16 @@ Mais de 10 anos de experiência da área de programação.</p>
   
 ## Links 
 
-- [Twitter](http://twitter.com/wiskton)
-  
 <div> 
-  <a href="https://willemallan.com.br" target="_blank"><img src="https://img.shields.io/badge/Link-green?style=for-the-badge&logo=linktr&logoColor=white" target="_blank"></a> 
-  <a href="https://linktr.ee/wiskton" target="_blank"><img src="https://img.shields.io/badge/Link-green?style=for-the-badge&logo=linktr&logoColor=white" target="_blank"></a> 
+  <a href="https://willemallan.com.br" target="_blank"><img src="https://img.shields.io/badge/Site-green?style=for-the-badge&logo=site&logoColor=white" target="_blank"></a> 
+  <a href="https://linktr.ee/wiskton" target="_blank"><img src="https://img.shields.io/badge/Linktr-green?style=for-the-badge&logo=linktr&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/YouTubeDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCsz1LhbGTSEdjt0fJTJSU_w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="http://twitch.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  	<a href="http://twitter.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/Twitter-9146FF?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://linktr.ee/wiskton" target="_blank"><img src="https://img.shields.io/badge/Link-green?style=for-the-badge&logo=linktr&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:willemarf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willemallan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:willemarf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
 
