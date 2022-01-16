@@ -17,7 +17,9 @@ Mais de 10 anos de experiência da área de programação.</p>
 - [Twitter](http://twitter.com/wiskton)
   
 <div> 
+  <a href="https://linktr.ee/wiskton" target="_blank"><img src="https://img.shields.io/badge/Link-FF0000?style=for-the-badge&logo=youtube&logoColor=green" target="_blank"></a> 
   <a href="https://www.youtube.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/YouTubeDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCsz1LhbGTSEdjt0fJTJSU_w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/wiskton" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
