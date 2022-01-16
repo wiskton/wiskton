@@ -5,7 +5,6 @@ Crio conteúdo de tecnologias e programação no Youtube.<BR>
 Mais de 10 anos de experiência da área de programação.</p>
   
 <div align="center">
-  <a href="https://github.com/wiskton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiskton&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiskton&layout=compact&langs_count=7&theme=dracula"/>
 </div>
