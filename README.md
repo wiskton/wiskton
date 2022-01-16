@@ -75,7 +75,7 @@ Mais de 10 anos de experiência da área de programação.</p>
 - PostgreSQL
 - Oracle
 
-## Amazon AWS 
+## AWS / DigitalOcean
 
 - S3
 - EC2 
@@ -83,6 +83,8 @@ Mais de 10 anos de experiência da área de programação.</p>
 - Lambda 
 - SQS
 - CloudWatch
+- CloudFront
+- Spaces
 
 ## Jogos
 
