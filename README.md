@@ -29,19 +29,6 @@ Mais de 10 anos de experiência da área de programação.</p>
   <img align="center" alt="Wiskton-django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
 </div>
   
-## Linguagens 
-
-- Python
-- Ruby
-- PHP
-- C#
-- JAVA
-- ASP
-- JavaScript 
-- C
-- C++
-- Shellscript
-  
 ## Links 
 
 <div> 
@@ -56,8 +43,21 @@ Mais de 10 anos de experiência da área de programação.</p>
   <a href = "mailto:willemarf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
+  
+## Linguagens 
 
-## Sistema
+- Python
+- Ruby
+- PHP
+- C#
+- JAVA
+- ASP
+- JavaScript 
+- C
+- C++
+- Shellscript
+
+## Sistemas Operacionais
 
 - Linux (Ubuntu, CentOS, Fedora, Manjaro, Debian)
 - Windows
