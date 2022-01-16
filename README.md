@@ -25,9 +25,8 @@ Mais de 10 anos de experiência da área de programação.</p>
  
 </div>
 
-## Linguagens 
-
 <div style="display: inline_block"><br>
+  <img align="center" alt="Wiskton-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Wiskton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wiskton-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Wiskton-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -37,6 +36,7 @@ Mais de 10 anos de experiência da área de programação.</p>
   <img align="center" alt="Wiskton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Wiskton-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Wiskton-ShellScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shellscript/shellscript-original.svg">
+  <img align="center" alt="Wiskton-raspberrypi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
 </div>
 
 ## Sistema
