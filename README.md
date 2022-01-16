@@ -36,7 +36,7 @@ Mais de 10 anos de experiência da área de programação.</p>
   <img align="center" alt="Wiskton-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Wiskton-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Wiskton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Wiskton-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
+  <img align="center" alt="Wiskton-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Wiskton-ShellScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shellscript/shellscript-original.svg">
 </div>
 
