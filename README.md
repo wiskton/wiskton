@@ -14,12 +14,7 @@ Mais de 10 anos de experiência da área de programação.</p>
 
 - [Site](https://willemallan.com.br/)
 - [Linktr](https://linktr.ee/wiskton)
-- [Youtube Tech](http://youtube.com/wiskton)
-- [Youtube Dev](https://www.youtube.com/channel/UCsz1LhbGTSEdjt0fJTJSU_w)
-- [Twitch](https://www.twitch.com/wiskton)
-- [Instagram](http://instagram.com/wiskton)
 - [Twitter](http://twitter.com/wiskton)
-- [LinkedIn](https://www.linkedin.com/in/willemallan/)
   
 <div> 
   <a href="https://www.youtube.com/wiskton" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
@@ -28,8 +23,6 @@ Mais de 10 anos de experiência da área de programação.</p>
  	<a href="https://www.twitch.tv/wiskton" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:willemarf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willemallan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
