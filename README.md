@@ -23,11 +23,11 @@ Mais de 10 anos de experiência da área de programação.</p>
   <img align="center" alt="Wiskton-C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Wiskton-Heroku" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Wiskton-raspberrypi" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
-  <img align="center" alt="Wiskton-arduino" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Wiskton-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Wiskton-docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Wiskton-arduino" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Wiskton-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Wiskton-django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
-  <img align="center" alt="Wiskton-docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   
 </div>
   
