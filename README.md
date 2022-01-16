@@ -9,7 +9,7 @@ Mais de 10 anos de experiência da área de programação.</p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiskton&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center">
   <img align="center" alt="Wiskton-linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Wiskton-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wiskton-Ruby" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
@@ -27,7 +27,6 @@ Mais de 10 anos de experiência da área de programação.</p>
   <img align="center" alt="Wiskton-arduino" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Wiskton-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Wiskton-django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
-  
 </div>
   
 ## Links 
