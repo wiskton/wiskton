@@ -54,6 +54,8 @@ Mais de 10 anos de experiência da área de programação.</p>
 - MySQL
 - PostgreSQL
 - Oracle
+- MongoDB
+- Microsoft SQL Server
 
 ## AWS / DigitalOcean
 
