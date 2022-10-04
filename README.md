@@ -48,6 +48,7 @@ Mais de 10 anos de experiência da área de programação.</p>
 - CakePhp
 - Django REST framework
 - Flask
+- Fastapi
 
 ## Banco de dados
 
