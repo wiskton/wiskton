@@ -49,6 +49,8 @@ Mais de 10 anos de experiência da área de programação.</p>
 - Django REST framework
 - Flask
 - Fastapi
+- Node
+- Angular
 
 ## Banco de dados
 
