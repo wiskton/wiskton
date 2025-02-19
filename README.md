@@ -38,19 +38,16 @@ Mais de 10 anos de experiência da área de programação.</p>
 
 ## Sistemas Operacionais
 
-- Linux (Ubuntu, CentOS, Fedora, Manjaro, Debian)
+- Linux (Ubuntu, CentOS, Fedora, Manjaro, Debian, Pop!_OS, CachyOS)
 - Windows
 
 ## Frameworks
 
 - Django
 - Ruby on Rails
-- CakePhp
 - Django REST framework
 - Flask
 - Fastapi
-- Node
-- Angular
 
 ## Banco de dados
 
