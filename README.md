@@ -9,8 +9,8 @@
 <div align="center">
   <a href="https://willemallan.com.br" target="_blank"><img alt="Site" src="https://img.shields.io/badge/Site-orange?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linktr.ee/wiskton" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-1DE9B6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@wiskton" target="_blank"><img alt="Wiskton" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@wiskdev" target="_blank"><img alt="Wisk Dev" src="https://img.shields.io/badge/YouTube%20%232-F76806?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@wiskton" target="_blank"><img alt="Wiskton" src="https://img.shields.io/badge/Wiskton-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@wiskdev" target="_blank"><img alt="Wisk Dev" src="https://img.shields.io/badge/WiskDev-F76806?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.youtube.com/@wiskcrypto" target="_blank"><img alt="YouTube (Wisk Crypto)" src="https://img.shields.io/badge/Wisk%20Crypto-FFC800?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://instagram.com/wiskton" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitch.tv/wiskton" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
